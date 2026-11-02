@@ -1,0 +1,26 @@
+{
+  "name": "vibe-video-studio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Vibe 知识科普视频（Remotion）制作工程",
+  "scripts": {
+    "studio": "remotion studio",
+    "render:opening": "remotion render Opening10s out/opening10s.mp4",
+    "render:full": "remotion render Film out/film.mp4",
+    "still": "remotion still Film out/still.png",
+    "beats": "python3 tools/analyze_beats.py public/music.mp3",
+    "sfx": "python3 tools/synth_sfx.py",
+    "placeholder-music": "python3 tools/make_placeholder_music.py --out public/music.wav && ffmpeg -v error -y -i public/music.wav -b:a 192k public/music.mp3 && rm public/music.wav",
+    "typecheck": "tsc -p ."
+  },
+  "dependencies": {
+    "@fontsource/noto-sans-sc": "^5.1.1",
+    "@fontsource/noto-serif-sc": "^5.1.1",
+    "@remotion/cli": "^4.0.540",
+    "@types/react": "^18.3.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.540",
+    "typescript": "^5.6.3"
+  }
+}
