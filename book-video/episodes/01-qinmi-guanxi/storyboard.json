@@ -1,0 +1,1611 @@
+{
+  "episode": "01",
+  "book": "《亲密关系》（第8版）",
+  "author": "[美]罗兰·米勒 著，王伟平 译，人民邮电出版社 2024",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "nav_tabs": [
+    "满意≠留下",
+    "你的解释",
+    "一追一躲",
+    "不是不爱了"
+  ],
+  "channel_name": "风的攻略",
+  "est_total_seconds": 344.5,
+  "note": "est_* 为估算；配音生成后以 TTS 实际时间戳覆盖 est_start/est_duration。",
+  "scenes": {
+    "S01": {
+      "kind": "mix",
+      "description": "深夜书房，台灯下一部手机亮着，屏幕上是一条爆赞视频的点赞数在跳（代码：数字从0滚到 1081万）"
+    },
+    "S02": {
+      "kind": "image",
+      "description": "像素小人坐在沙发一端，背对另一端的人，中间隔着一个靠枕，窗外下雨"
+    },
+    "S03": {
+      "kind": "ui",
+      "description": "评论区像素弹幕不断往上滚：『这不就是我』『我也是』『说的就是我』"
+    },
+    "S04": {
+      "kind": "mix",
+      "description": "书桌上一本厚书缓缓推近，封面上写『亲密关系』，旁边一摞论文和数据图"
+    },
+    "S05": {
+      "kind": "ui",
+      "description": "装备卡弹出：『亲密关系·第8版』稀有度：传说；属性：528页／几十年研究"
+    },
+    "S06": {
+      "kind": "mix",
+      "description": "两名像素角色站在一扇巨大石门前，门上写『双人副本』，HUD 显示『新手教程：无』"
+    },
+    "S07": {
+      "kind": "ui",
+      "description": "卷轴展开，一行行出现：『不是爱错了人』／『是看错了规则』"
+    },
+    "C1T": {
+      "kind": "ui",
+      "description": "关卡标题卡：第一关 满意和留下，是两回事（四关导航条第1格亮起）"
+    },
+    "S08": {
+      "kind": "image",
+      "description": "一个像素角色站在十字路口，背后是灯火通明的家，前方是黑漆漆的雾，脚下不动"
+    },
+    "S09": {
+      "kind": "ui",
+      "description": "两把像素尺子从上方落下：尺子A『比较水平：我应该得到的』，尺子B『替代比较水平：离开后能得到的最好』"
+    },
+    "S10": {
+      "kind": "ui",
+      "description": "尺子A旁边一根金色柱子（现实）上升，超过刻度变绿『满意』，低于刻度变红『委屈』"
+    },
+    "S11": {
+      "kind": "ui",
+      "description": "2x2 矩阵：满意/不满意 × 留下/离开，四格依次点亮，『不满意但离不开』那格闪烁"
+    },
+    "S12": {
+      "kind": "image",
+      "description": "深夜被窝里，像素角色举着手机，屏幕光照在脸上，屏幕里不断闪过『别人家的男朋友』卡片"
+    },
+    "S13": {
+      "kind": "ui",
+      "description": "尺子A的刻度线被一只手往上拽高，旁边那根现实柱子没变，却从绿变红"
+    },
+    "C2T": {
+      "kind": "ui",
+      "description": "关卡标题卡：第二关 你看见的不是他，是你的解释（导航第2格亮起）"
+    },
+    "S14": {
+      "kind": "mix",
+      "description": "手机聊天界面，最后一条消息下方显示『已读』，右上角时钟从 22:00 走到 23:30"
+    },
+    "S15": {
+      "kind": "ui",
+      "description": "RPG 对话选项框：A『他可能在忙』 B『他就是不在乎我』，光标在两者间犹豫"
+    },
+    "S16": {
+      "kind": "ui",
+      "description": "分屏：左边选A的两人在暖色灯下一起吃饭，右边选B的两人背对背，HUD 显示『证据+1』"
+    },
+    "S17": {
+      "kind": "ui",
+      "description": "证据计数器不断+1，一个透明罐子里装满写着『他就是这样』的纸条"
+    },
+    "S18": {
+      "kind": "mix",
+      "description": "镜子场景：左边是『我迟到——堵车』，右边是『他迟到——不上心』，同一个钟"
+    },
+    "C3T": {
+      "kind": "ui",
+      "description": "关卡标题卡：第三关 一个追，一个躲（导航第3格亮起）"
+    },
+    "S19": {
+      "kind": "image",
+      "description": "像素走廊，一个角色往前追，另一个角色往后退，走廊越拉越长"
+    },
+    "S20": {
+      "kind": "ui",
+      "description": "循环箭头图：『追问↑』→『沉默↑』→『更急↑』→『更远↑』，转速越来越快"
+    },
+    "S21": {
+      "kind": "image",
+      "description": "暗色竞技场，四个像素骑士 Boss 依次登场，头顶名字：批评／蔑视／辩护／冷战"
+    },
+    "S22": {
+      "kind": "ui",
+      "description": "『蔑视』骑士头顶出现『致命』红色标签，血条特别长"
+    },
+    "S23": {
+      "kind": "ui",
+      "description": "天平：左边一块黑色砝码『1次不愉快』，右边金色砝码一块块落下，落到第5块时天平平衡，弹出『5:1』"
+    },
+    "S24": {
+      "kind": "image",
+      "description": "一扇门半开，门缝里伸出一只手，另一边的人正在转身离开"
+    },
+    "C4T": {
+      "kind": "ui",
+      "description": "关卡标题卡：第四关 激情会退，不是爱没了（导航第4格亮起）"
+    },
+    "S25": {
+      "kind": "ui",
+      "description": "像素心电图：开头波峰很高，越往后越平，标注『认识第1天』…『第3年』"
+    },
+    "S26": {
+      "kind": "ui",
+      "description": "两条线叠在一起：『亲密有多深』一路上升，『激情』画的是它的上升速度——前面陡、后面平"
+    },
+    "S27": {
+      "kind": "image",
+      "description": "两个像素角色背着包站在一张从没见过的地图前，地图上一块区域正在『解锁』"
+    },
+    "S28": {
+      "kind": "ui",
+      "description": "实验卡片：A组『新鲜刺激的活动』 B组『舒服的老活动』，10周后A组满意度柱子更高"
+    },
+    "CARD": {
+      "kind": "ui",
+      "description": "宝箱打开，三张技能卡飞出排成一排"
+    },
+    "K1": {
+      "kind": "ui",
+      "description": "技能卡一：换个解释（★★★）——卡面画着A选项框"
+    },
+    "K2": {
+      "kind": "ui",
+      "description": "技能卡二：记好的（★★★）——卡面是一个 5:1 的计分板"
+    },
+    "K3": {
+      "kind": "ui",
+      "description": "技能卡三：留一扇门（★★★）——卡面是一扇半开的门和『20:00』倒计时"
+    },
+    "P1": {
+      "kind": "image",
+      "description": "昏暗房间，一个像素角色站在门口，外面有温暖的光和另一个伸手的人（朋友）"
+    },
+    "E1": {
+      "kind": "mix",
+      "description": "回到开头那扇『双人副本』石门，两名角色并肩走进去，门缓缓合上，门内有光"
+    },
+    "E2": {
+      "kind": "ui",
+      "description": "成就弹出：『解锁结局：好好说话』『成就：不再内耗』"
+    },
+    "E3": {
+      "kind": "ui",
+      "description": "评论区引导：左右两个大按钮『追』『躲』"
+    },
+    "E4": {
+      "kind": "mix",
+      "description": "书房台灯，那本书合上放在桌上，频道名与『我们下一本书见』"
+    }
+  },
+  "lines": [
+    {
+      "id": "L001",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "最近有条讲爱情的视频，一千多万人点了赞。",
+      "tts_text": "最近有条讲爱情的视频，一千多万人点了赞。",
+      "highlight": [
+        "赞"
+      ],
+      "is_punchline": false,
+      "scene": "S01",
+      "scene_kind": "mix",
+      "motion": "手机缓推近 + 点赞数字滚动",
+      "est_start": 0.0,
+      "est_duration": 4.54
+    },
+    {
+      "id": "L002",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "最戳人的，是博主的一句自我检讨：",
+      "tts_text": "最戳人的，是博主的一句自我检讨：",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S02",
+      "scene_kind": "image",
+      "motion": "慢推",
+      "est_start": 4.54,
+      "est_duration": 3.61
+    },
+    {
+      "id": "L003",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "他在感情里，总想躲开冲突。",
+      "tts_text": "他在感情里，总想躲开冲突。",
+      "highlight": [
+        "躲开冲突"
+      ],
+      "is_punchline": false,
+      "scene": "S02",
+      "scene_kind": "image",
+      "motion": "中间靠枕轻微放大",
+      "est_start": 8.15,
+      "est_duration": 2.91
+    },
+    {
+      "id": "L004",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "觉得忍一忍，就过去了。",
+      "tts_text": "觉得忍一忍，就过去了。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S02",
+      "scene_kind": "image",
+      "motion": "雨点加密",
+      "est_start": 11.06,
+      "est_duration": 2.44
+    },
+    {
+      "id": "L005",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "评论区一大片：这不就是我吗。",
+      "tts_text": "评论区一大片：这不就是我吗。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S03",
+      "scene_kind": "ui",
+      "motion": "弹幕上滚",
+      "est_start": 13.5,
+      "est_duration": 3.14
+    },
+    {
+      "id": "L006",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "可这件事，有本书早就写透了，",
+      "tts_text": "可这件事，有本书早就写透了，",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S04",
+      "scene_kind": "mix",
+      "motion": "书从景深中推近",
+      "est_start": 16.64,
+      "est_duration": 3.14
+    },
+    {
+      "id": "L007",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "还给它起了个名字。",
+      "tts_text": "还给它起了个名字。",
+      "highlight": [
+        "名字"
+      ],
+      "is_punchline": false,
+      "scene": "S04",
+      "scene_kind": "mix",
+      "motion": "书页翻动一下",
+      "est_start": 19.78,
+      "est_duration": 2.21
+    },
+    {
+      "id": "L008",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "这本书叫《亲密关系》。",
+      "tts_text": "这本书叫《亲密关系》。",
+      "highlight": [
+        "亲密关系"
+      ],
+      "is_punchline": false,
+      "scene": "S05",
+      "scene_kind": "ui",
+      "motion": "装备卡弹出 + 光效",
+      "est_start": 21.99,
+      "est_duration": 2.21
+    },
+    {
+      "id": "L009",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "五百多页，很多大学的心理学课拿它当教材。",
+      "tts_text": "五百多页，很多大学的心理学课拿它当教材。",
+      "highlight": [
+        "教材"
+      ],
+      "is_punchline": false,
+      "scene": "S05",
+      "scene_kind": "ui",
+      "motion": "属性行逐条出现",
+      "est_start": 24.2,
+      "est_duration": 4.54
+    },
+    {
+      "id": "L010",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "它不讲鸡汤，讲的是几十年的研究。",
+      "tts_text": "它不讲鸡汤，讲的是几十年的研究。",
+      "highlight": [
+        "研究"
+      ],
+      "is_punchline": false,
+      "scene": "S04",
+      "scene_kind": "mix",
+      "motion": "数据图纸散开",
+      "est_start": 28.74,
+      "est_duration": 3.61
+    },
+    {
+      "id": "L011",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "先叠个甲：今天不教你挽回，也不教你撩。",
+      "tts_text": "先叠个甲：今天不教你挽回，也不教你撩。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S04",
+      "scene_kind": "mix",
+      "motion": "台灯闪一下",
+      "est_start": 32.35,
+      "est_duration": 4.07
+    },
+    {
+      "id": "L012",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "如果爱情是一个双人副本，",
+      "tts_text": "如果爱情是一个双人副本，",
+      "highlight": [
+        "双人副本"
+      ],
+      "is_punchline": false,
+      "scene": "S06",
+      "scene_kind": "mix",
+      "motion": "石门从下往上摇镜",
+      "est_start": 36.42,
+      "est_duration": 2.91
+    },
+    {
+      "id": "L013",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "这本书，就是那份没人发给你的通关攻略。",
+      "tts_text": "这本书，就是那份没人发给你的通关攻略。",
+      "highlight": [
+        "通关攻略"
+      ],
+      "is_punchline": false,
+      "scene": "S06",
+      "scene_kind": "mix",
+      "motion": "HUD『新手教程：无』闪烁",
+      "est_start": 39.33,
+      "est_duration": 4.3
+    },
+    {
+      "id": "L014",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "你在感情里的很多内耗，不是因为爱错了人，",
+      "tts_text": "你在感情里的很多内耗，不是因为爱错了人，",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S07",
+      "scene_kind": "ui",
+      "motion": "卷轴展开",
+      "est_start": 43.63,
+      "est_duration": 4.54
+    },
+    {
+      "id": "L015",
+      "chapter": "hook",
+      "chapter_name": "开场",
+      "nav_active": 0,
+      "text": "是因为看错了规则。",
+      "tts_text": "是因为看错了规则。",
+      "highlight": [
+        "规则"
+      ],
+      "is_punchline": false,
+      "scene": "S07",
+      "scene_kind": "ui",
+      "motion": "『规则』两字盖章",
+      "est_start": 48.17,
+      "est_duration": 2.21
+    },
+    {
+      "id": "L016",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "先看一个扎心的问题：",
+      "tts_text": "先看一个扎心的问题：",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "C1T",
+      "scene_kind": "ui",
+      "motion": "标题卡落下",
+      "est_start": 50.38,
+      "est_duration": 2.44
+    },
+    {
+      "id": "L017",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "为什么有人不开心，却离不开？",
+      "tts_text": "为什么有人不开心，却离不开？",
+      "highlight": [
+        "不开心"
+      ],
+      "is_punchline": false,
+      "scene": "S08",
+      "scene_kind": "image",
+      "motion": "慢推，雾气流动",
+      "est_start": 52.82,
+      "est_duration": 3.14
+    },
+    {
+      "id": "L018",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "为什么有人明明被对得很好，却还是不满足？",
+      "tts_text": "为什么有人明明被对得很好，却还是不满足？",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S08",
+      "scene_kind": "image",
+      "motion": "家里的灯闪一下",
+      "est_start": 55.96,
+      "est_duration": 4.54
+    },
+    {
+      "id": "L019",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "书里用两把尺子来解释。",
+      "tts_text": "书里用两把尺子来解释。",
+      "highlight": [
+        "尺子"
+      ],
+      "is_punchline": false,
+      "scene": "S09",
+      "scene_kind": "ui",
+      "motion": "两把尺子落下，弹一下",
+      "est_start": 60.5,
+      "est_duration": 2.68
+    },
+    {
+      "id": "L020",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "第一把叫比较水平：你觉得自己应该得到什么。",
+      "tts_text": "第一把叫比较水平：你觉得自己应该得到什么。",
+      "highlight": [
+        "比较水平"
+      ],
+      "is_punchline": false,
+      "scene": "S09",
+      "scene_kind": "ui",
+      "motion": "尺子A高亮",
+      "est_start": 63.18,
+      "est_duration": 4.77
+    },
+    {
+      "id": "L021",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "现实高过它，你满意；低过它，你委屈。",
+      "tts_text": "现实高过它，你满意；低过它，你委屈。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S10",
+      "scene_kind": "ui",
+      "motion": "现实柱子升降",
+      "est_start": 67.95,
+      "est_duration": 3.61
+    },
+    {
+      "id": "L022",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "第二把叫替代比较水平：离开这个人，你能得到的最好是什么。",
+      "tts_text": "第二把叫替代比较水平：离开这个人，你能得到的最好是什么。",
+      "highlight": [
+        "替代比较水平"
+      ],
+      "is_punchline": false,
+      "scene": "S09",
+      "scene_kind": "ui",
+      "motion": "尺子B高亮",
+      "est_start": 71.56,
+      "est_duration": 6.16
+    },
+    {
+      "id": "L023",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "满不满意，看第一把；走不走，看第二把。",
+      "tts_text": "满不满意，看第一把；走不走，看第二把。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S11",
+      "scene_kind": "ui",
+      "motion": "矩阵四格依次点亮",
+      "est_start": 77.72,
+      "est_duration": 3.84
+    },
+    {
+      "id": "L024",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "所以不开心却离不开，是觉得外面更差。",
+      "tts_text": "所以不开心却离不开，是觉得外面更差。",
+      "highlight": [
+        "更差"
+      ],
+      "is_punchline": false,
+      "scene": "S11",
+      "scene_kind": "ui",
+      "motion": "『不满意但留下』格闪烁",
+      "est_start": 81.56,
+      "est_duration": 4.07
+    },
+    {
+      "id": "L025",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "放到你身上：刷了一晚上『别人家的男朋友』，",
+      "tts_text": "放到你身上：刷了一晚上『别人家的男朋友』，",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S12",
+      "scene_kind": "image",
+      "motion": "屏幕卡片快速闪过",
+      "est_start": 85.63,
+      "est_duration": 4.3
+    },
+    {
+      "id": "L026",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "第二天看身边这个人，怎么都不顺眼。",
+      "tts_text": "第二天看身边这个人，怎么都不顺眼。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S12",
+      "scene_kind": "image",
+      "motion": "画面色温变冷",
+      "est_start": 89.93,
+      "est_duration": 3.84
+    },
+    {
+      "id": "L027",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "他没变，是你的第一把尺子，被刷高了。",
+      "tts_text": "他没变，是你的第一把尺子，被刷高了。",
+      "highlight": [
+        "刷高"
+      ],
+      "is_punchline": false,
+      "scene": "S13",
+      "scene_kind": "ui",
+      "motion": "刻度线被拽高，柱子变红",
+      "est_start": 93.77,
+      "est_duration": 3.84
+    },
+    {
+      "id": "L028",
+      "chapter": "c1",
+      "chapter_name": "第一关 · 满意和留下是两回事",
+      "nav_active": 1,
+      "text": "让你委屈的，有时不是他，是你刷到的那一万个别人。",
+      "tts_text": "让你委屈的，有时不是他，是你刷到的那一万个别人。",
+      "highlight": [
+        "别人"
+      ],
+      "is_punchline": true,
+      "scene": "S13",
+      "scene_kind": "ui",
+      "motion": "定格 + 金句字号放大",
+      "est_start": 97.61,
+      "est_duration": 5.83
+    },
+    {
+      "id": "L029",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "再来一道题。",
+      "tts_text": "再来一道题。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "C2T",
+      "scene_kind": "ui",
+      "motion": "标题卡落下",
+      "est_start": 103.44,
+      "est_duration": 1.51
+    },
+    {
+      "id": "L030",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "他晚上十点，没回你消息。",
+      "tts_text": "他晚上十点，没回你消息。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S14",
+      "scene_kind": "mix",
+      "motion": "时钟快进",
+      "est_start": 104.95,
+      "est_duration": 2.68
+    },
+    {
+      "id": "L031",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "你脑子里冒出的第一句是什么？",
+      "tts_text": "你脑子里冒出的第一句是什么？",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S15",
+      "scene_kind": "ui",
+      "motion": "选项框弹出，光标犹豫",
+      "est_start": 107.63,
+      "est_duration": 3.37
+    },
+    {
+      "id": "L032",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "A：他可能在忙。B：他就是不在乎我。",
+      "tts_text": "A：他可能在忙。B：他就是不在乎我。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S15",
+      "scene_kind": "ui",
+      "motion": "A、B依次亮起",
+      "est_start": 111.0,
+      "est_duration": 3.37
+    },
+    {
+      "id": "L033",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "书里讲，幸福的伴侣，多半选A。",
+      "tts_text": "书里讲，幸福的伴侣，多半选A。",
+      "highlight": [
+        "A"
+      ],
+      "is_punchline": false,
+      "scene": "S16",
+      "scene_kind": "ui",
+      "motion": "左半屏亮",
+      "est_start": 114.37,
+      "est_duration": 3.02
+    },
+    {
+      "id": "L034",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "把对方的坏表现，看成暂时的、情境造成的。",
+      "tts_text": "把对方的坏表现，看成暂时的、情境造成的。",
+      "highlight": [
+        "暂时的",
+        "情境造成的"
+      ],
+      "is_punchline": false,
+      "scene": "S16",
+      "scene_kind": "ui",
+      "motion": "左侧暖光加强",
+      "est_start": 117.39,
+      "est_duration": 4.3
+    },
+    {
+      "id": "L035",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "痛苦的伴侣，多半选B：他就是这种人。",
+      "tts_text": "痛苦的伴侣，多半选B：他就是这种人。",
+      "highlight": [
+        "B"
+      ],
+      "is_punchline": false,
+      "scene": "S16",
+      "scene_kind": "ui",
+      "motion": "右半屏亮，『证据+1』",
+      "est_start": 121.69,
+      "est_duration": 3.72
+    },
+    {
+      "id": "L036",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "每选一次B，都在给下一次吵架攒证据。",
+      "tts_text": "每选一次B，都在给下一次吵架攒证据。",
+      "highlight": [
+        "攒证据"
+      ],
+      "is_punchline": false,
+      "scene": "S17",
+      "scene_kind": "ui",
+      "motion": "罐子里纸条越积越多",
+      "est_start": 125.41,
+      "est_duration": 3.95
+    },
+    {
+      "id": "L037",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "更狠的是：对自己，我们几乎永远选A。",
+      "tts_text": "更狠的是：对自己，我们几乎永远选A。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S18",
+      "scene_kind": "mix",
+      "motion": "镜子两边同时出现",
+      "est_start": 129.36,
+      "est_duration": 3.72
+    },
+    {
+      "id": "L038",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "自己迟到，是因为堵车；他迟到，是因为不上心。",
+      "tts_text": "自己迟到，是因为堵车；他迟到，是因为不上心。",
+      "highlight": [
+        "不上心"
+      ],
+      "is_punchline": false,
+      "scene": "S18",
+      "scene_kind": "mix",
+      "motion": "钟摆晃动",
+      "est_start": 133.08,
+      "est_duration": 4.54
+    },
+    {
+      "id": "L039",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "当然，同一件事发生一百次，那就不是解释的问题了。",
+      "tts_text": "当然，同一件事发生一百次，那就不是解释的问题了。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S17",
+      "scene_kind": "ui",
+      "motion": "罐子停住",
+      "est_start": 137.62,
+      "est_duration": 5.23
+    },
+    {
+      "id": "L040",
+      "chapter": "c2",
+      "chapter_name": "第二关 · 你看见的是你的解释",
+      "nav_active": 2,
+      "text": "但很多内耗，不是他做了什么，是你替他想了什么。",
+      "tts_text": "但很多内耗，不是他做了什么，是你替他想了什么。",
+      "highlight": [
+        "想"
+      ],
+      "is_punchline": true,
+      "scene": "S18",
+      "scene_kind": "mix",
+      "motion": "定格 + 金句放大",
+      "est_start": 142.85,
+      "est_duration": 5.6
+    },
+    {
+      "id": "L041",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "回到开头那位博主。",
+      "tts_text": "回到开头那位博主。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "C3T",
+      "scene_kind": "ui",
+      "motion": "标题卡落下",
+      "est_start": 148.45,
+      "est_duration": 2.21
+    },
+    {
+      "id": "L042",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "躲开冲突，很多人以为是在保护这段关系。",
+      "tts_text": "躲开冲突，很多人以为是在保护这段关系。",
+      "highlight": [
+        "保护"
+      ],
+      "is_punchline": false,
+      "scene": "S19",
+      "scene_kind": "image",
+      "motion": "走廊慢慢拉长",
+      "est_start": 150.66,
+      "est_duration": 4.3
+    },
+    {
+      "id": "L043",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "书里有个词，专门描述这件事：要求—退缩。",
+      "tts_text": "书里有个词，专门描述这件事：要求—退缩。",
+      "highlight": [
+        "要求—退缩"
+      ],
+      "is_punchline": false,
+      "scene": "S20",
+      "scene_kind": "ui",
+      "motion": "循环图出现",
+      "est_start": 154.96,
+      "est_duration": 4.07
+    },
+    {
+      "id": "L044",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "一个人越想谈，另一个越沉默；",
+      "tts_text": "一个人越想谈，另一个越沉默；",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S20",
+      "scene_kind": "ui",
+      "motion": "第一圈箭头转",
+      "est_start": 159.03,
+      "est_duration": 3.14
+    },
+    {
+      "id": "L045",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "越沉默，追的那个越急；越急，躲的那个躲得越远。",
+      "tts_text": "越沉默，追的那个越急；越急，躲的那个躲得越远。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S20",
+      "scene_kind": "ui",
+      "motion": "箭头越转越快",
+      "est_start": 162.17,
+      "est_duration": 4.77
+    },
+    {
+      "id": "L046",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "两个人都觉得，是对方逼的。",
+      "tts_text": "两个人都觉得，是对方逼的。",
+      "highlight": [
+        "对方"
+      ],
+      "is_punchline": false,
+      "scene": "S19",
+      "scene_kind": "image",
+      "motion": "两人同时回头",
+      "est_start": 166.94,
+      "est_duration": 2.91
+    },
+    {
+      "id": "L047",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "心理学家戈特曼观察了上千对夫妻，",
+      "tts_text": "心理学家戈特曼观察了上千对夫妻，",
+      "highlight": [
+        "戈特曼"
+      ],
+      "is_punchline": false,
+      "scene": "S21",
+      "scene_kind": "image",
+      "motion": "竞技场灯一盏盏亮",
+      "est_start": 169.85,
+      "est_duration": 3.84
+    },
+    {
+      "id": "L048",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "找出关系里最危险的四种反应：",
+      "tts_text": "找出关系里最危险的四种反应：",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S21",
+      "scene_kind": "image",
+      "motion": "四骑士剪影",
+      "est_start": 173.69,
+      "est_duration": 3.37
+    },
+    {
+      "id": "L049",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "批评、蔑视、辩护、冷战。",
+      "tts_text": "批评、蔑视、辩护、冷战。",
+      "highlight": [
+        "批评",
+        "蔑视",
+        "辩护",
+        "冷战"
+      ],
+      "is_punchline": false,
+      "scene": "S21",
+      "scene_kind": "image",
+      "motion": "四骑士依次登场亮名",
+      "est_start": 177.06,
+      "est_duration": 2.21
+    },
+    {
+      "id": "L050",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "其中最伤人的，是蔑视：翻白眼，冷笑，看不起。",
+      "tts_text": "其中最伤人的，是蔑视：翻白眼，冷笑，看不起。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S22",
+      "scene_kind": "ui",
+      "motion": "『致命』标签砸下",
+      "est_start": 179.27,
+      "est_duration": 4.3
+    },
+    {
+      "id": "L051",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "而一直躲，就是第四种：冷战。",
+      "tts_text": "而一直躲，就是第四种：冷战。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S21",
+      "scene_kind": "image",
+      "motion": "冷战骑士推近",
+      "est_start": 183.57,
+      "est_duration": 2.91
+    },
+    {
+      "id": "L052",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "可他还发现一件反直觉的事：",
+      "tts_text": "可他还发现一件反直觉的事：",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S23",
+      "scene_kind": "ui",
+      "motion": "天平出现",
+      "est_start": 186.48,
+      "est_duration": 3.14
+    },
+    {
+      "id": "L053",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "很少吵架的夫妻，也可以过得很稳。",
+      "tts_text": "很少吵架的夫妻，也可以过得很稳。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S23",
+      "scene_kind": "ui",
+      "motion": "天平轻晃",
+      "est_start": 189.62,
+      "est_duration": 3.61
+    },
+    {
+      "id": "L054",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "关键不在吵不吵，在好坏比例。",
+      "tts_text": "关键不在吵不吵，在好坏比例。",
+      "highlight": [
+        "好坏比例"
+      ],
+      "is_punchline": false,
+      "scene": "S23",
+      "scene_kind": "ui",
+      "motion": "黑砝码落下",
+      "est_start": 193.23,
+      "est_duration": 3.14
+    },
+    {
+      "id": "L055",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "稳的关系里，一次不愉快，大约要五次好的互动来抵消。",
+      "tts_text": "稳的关系里，一次不愉快，大约要五次好的互动来抵消。",
+      "highlight": [
+        "五次"
+      ],
+      "is_punchline": false,
+      "scene": "S23",
+      "scene_kind": "ui",
+      "motion": "金砝码落5块，弹出5:1",
+      "est_start": 196.37,
+      "est_duration": 5.47
+    },
+    {
+      "id": "L056",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "放到你身上：『我不想吵』和『我不想听』，",
+      "tts_text": "放到你身上：『我不想吵』和『我不想听』，",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S24",
+      "scene_kind": "image",
+      "motion": "门缝慢慢变小",
+      "est_start": 201.84,
+      "est_duration": 3.61
+    },
+    {
+      "id": "L057",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "在对方耳朵里，是同一句话。",
+      "tts_text": "在对方耳朵里，是同一句话。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S24",
+      "scene_kind": "image",
+      "motion": "伸出的手停住",
+      "est_start": 205.45,
+      "est_duration": 2.91
+    },
+    {
+      "id": "L058",
+      "chapter": "c3",
+      "chapter_name": "第三关 · 一个追，一个躲",
+      "nav_active": 3,
+      "text": "你躲开的不是冲突，是对方伸过来的手。",
+      "tts_text": "你躲开的不是冲突，是对方伸过来的手。",
+      "highlight": [
+        "手"
+      ],
+      "is_punchline": true,
+      "scene": "S24",
+      "scene_kind": "image",
+      "motion": "定格 + 金句放大",
+      "est_start": 208.36,
+      "est_duration": 4.67
+    },
+    {
+      "id": "L059",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "最后一关，也是最多人卡住的一关。",
+      "tts_text": "最后一关，也是最多人卡住的一关。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "C4T",
+      "scene_kind": "ui",
+      "motion": "标题卡落下",
+      "est_start": 213.03,
+      "est_duration": 3.61
+    },
+    {
+      "id": "L060",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "『我们好像没感觉了。』是不是不爱了？",
+      "tts_text": "『我们好像没感觉了。』是不是不爱了？",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S25",
+      "scene_kind": "ui",
+      "motion": "心电图从左往右画",
+      "est_start": 216.64,
+      "est_duration": 3.61
+    },
+    {
+      "id": "L061",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "书里讲过一个很漂亮的解释：",
+      "tts_text": "书里讲过一个很漂亮的解释：",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S26",
+      "scene_kind": "ui",
+      "motion": "两条曲线出现",
+      "est_start": 220.25,
+      "est_duration": 3.14
+    },
+    {
+      "id": "L062",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "激情，不来自亲密有多深，",
+      "tts_text": "激情，不来自亲密有多深，",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S26",
+      "scene_kind": "ui",
+      "motion": "『深度』曲线高亮",
+      "est_start": 223.39,
+      "est_duration": 2.68
+    },
+    {
+      "id": "L063",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "而来自亲密正在变深。",
+      "tts_text": "而来自亲密正在变深。",
+      "highlight": [
+        "正在变深"
+      ],
+      "is_punchline": false,
+      "scene": "S26",
+      "scene_kind": "ui",
+      "motion": "『速度』曲线高亮",
+      "est_start": 226.07,
+      "est_duration": 2.44
+    },
+    {
+      "id": "L064",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "刚认识时，每天都多懂对方一点，心就一直跳。",
+      "tts_text": "刚认识时，每天都多懂对方一点，心就一直跳。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S25",
+      "scene_kind": "ui",
+      "motion": "前段波峰闪动",
+      "est_start": 228.51,
+      "est_duration": 4.54
+    },
+    {
+      "id": "L065",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "熟了以后，能新知道的越来越少，心跳就平了。",
+      "tts_text": "熟了以后，能新知道的越来越少，心跳就平了。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S25",
+      "scene_kind": "ui",
+      "motion": "后段拉平",
+      "est_start": 233.05,
+      "est_duration": 4.54
+    },
+    {
+      "id": "L066",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "不是不爱了，是不新了。",
+      "tts_text": "不是不爱了，是不新了。",
+      "highlight": [
+        "新"
+      ],
+      "is_punchline": true,
+      "scene": "S25",
+      "scene_kind": "ui",
+      "motion": "定格 + 金句放大",
+      "est_start": 237.59,
+      "est_duration": 3.04
+    },
+    {
+      "id": "L067",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "研究也给了解法：一起做点新鲜的事。",
+      "tts_text": "研究也给了解法：一起做点新鲜的事。",
+      "highlight": [
+        "新鲜"
+      ],
+      "is_punchline": false,
+      "scene": "S27",
+      "scene_kind": "image",
+      "motion": "地图区域解锁",
+      "est_start": 240.63,
+      "est_duration": 3.84
+    },
+    {
+      "id": "L068",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "有实验让夫妻每周一起做新奇、有点刺激的活动，",
+      "tts_text": "有实验让夫妻每周一起做新奇、有点刺激的活动，",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S28",
+      "scene_kind": "ui",
+      "motion": "A组卡片翻开",
+      "est_start": 244.47,
+      "est_duration": 5.0
+    },
+    {
+      "id": "L069",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "十周后，他们的满意度，比只做舒服老活动的那组更高。",
+      "tts_text": "十周后，他们的满意度，比只做舒服老活动的那组更高。",
+      "highlight": [
+        "更高"
+      ],
+      "is_punchline": false,
+      "scene": "S28",
+      "scene_kind": "ui",
+      "motion": "A组柱子升高",
+      "est_start": 249.47,
+      "est_duration": 5.47
+    },
+    {
+      "id": "L070",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "去一个没去过的地方，学一样两个人都不会的东西。",
+      "tts_text": "去一个没去过的地方，学一样两个人都不会的东西。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "S27",
+      "scene_kind": "image",
+      "motion": "两人走进地图",
+      "est_start": 254.94,
+      "est_duration": 5.23
+    },
+    {
+      "id": "L071",
+      "chapter": "c4",
+      "chapter_name": "第四关 · 不是不爱了",
+      "nav_active": 4,
+      "text": "不是找回原来的心跳，是给它一个新的理由。",
+      "tts_text": "不是找回原来的心跳，是给它一个新的理由。",
+      "highlight": [
+        "新的理由"
+      ],
+      "is_punchline": false,
+      "scene": "S27",
+      "scene_kind": "image",
+      "motion": "定格",
+      "est_start": 260.17,
+      "est_duration": 4.54
+    },
+    {
+      "id": "L072",
+      "chapter": "cards",
+      "chapter_name": "三张卡",
+      "nav_active": 0,
+      "text": "最后，送你三张卡，今晚就能用。",
+      "tts_text": "最后，送你三张卡，今晚就能用。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "CARD",
+      "scene_kind": "ui",
+      "motion": "宝箱开，卡片飞出",
+      "est_start": 264.71,
+      "est_duration": 3.14
+    },
+    {
+      "id": "L073",
+      "chapter": "cards",
+      "chapter_name": "三张卡",
+      "nav_active": 0,
+      "text": "第一张：换个解释。想发火之前，先给他找一个A选项。",
+      "tts_text": "第一张：换个解释。想发火之前，先给他找一个A选项。",
+      "highlight": [
+        "A选项"
+      ],
+      "is_punchline": false,
+      "scene": "K1",
+      "scene_kind": "ui",
+      "motion": "卡片翻转放大",
+      "est_start": 267.85,
+      "est_duration": 5.12
+    },
+    {
+      "id": "L074",
+      "chapter": "cards",
+      "chapter_name": "三张卡",
+      "nav_active": 0,
+      "text": "第二张：记好的。今天你给了对方几次好的互动？",
+      "tts_text": "第二张：记好的。今天你给了对方几次好的互动？",
+      "highlight": [
+        "好的互动"
+      ],
+      "is_punchline": false,
+      "scene": "K2",
+      "scene_kind": "ui",
+      "motion": "计分板跳动",
+      "est_start": 272.97,
+      "est_duration": 4.77
+    },
+    {
+      "id": "L075",
+      "chapter": "cards",
+      "chapter_name": "三张卡",
+      "nav_active": 0,
+      "text": "第三张：别直接躲。想走的时候，说一句：",
+      "tts_text": "第三张：别直接躲。想走的时候，说一句：",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "K3",
+      "scene_kind": "ui",
+      "motion": "门轻轻晃",
+      "est_start": 277.74,
+      "est_duration": 3.84
+    },
+    {
+      "id": "L076",
+      "chapter": "cards",
+      "chapter_name": "三张卡",
+      "nav_active": 0,
+      "text": "『我现在有点乱，给我二十分钟，回来我们接着说。』",
+      "tts_text": "『我现在有点乱，给我二十分钟，回来我们接着说。』",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "K3",
+      "scene_kind": "ui",
+      "motion": "倒计时开始走",
+      "est_start": 281.58,
+      "est_duration": 4.77
+    },
+    {
+      "id": "L077",
+      "chapter": "cards",
+      "chapter_name": "三张卡",
+      "nav_active": 0,
+      "text": "躲是关门；这句话，是留了一扇门。",
+      "tts_text": "躲是关门；这句话，是留了一扇门。",
+      "highlight": [
+        "留了一扇门"
+      ],
+      "is_punchline": false,
+      "scene": "K3",
+      "scene_kind": "ui",
+      "motion": "门缝里透出光",
+      "est_start": 286.35,
+      "est_duration": 3.37
+    },
+    {
+      "id": "L078",
+      "chapter": "patch",
+      "chapter_name": "诚实补丁",
+      "nav_active": 0,
+      "text": "也要诚实说一句：这本书专门有一章讲权力和暴力。",
+      "tts_text": "也要诚实说一句：这本书专门有一章讲权力和暴力。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "P1",
+      "scene_kind": "image",
+      "motion": "慢推",
+      "est_start": 289.72,
+      "est_duration": 5.23
+    },
+    {
+      "id": "L079",
+      "chapter": "patch",
+      "chapter_name": "诚实补丁",
+      "nav_active": 0,
+      "text": "上面这些，只适用于两个人都愿意好好过的关系。",
+      "tts_text": "上面这些，只适用于两个人都愿意好好过的关系。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "P1",
+      "scene_kind": "image",
+      "motion": "门外的光变亮",
+      "est_start": 294.95,
+      "est_duration": 5.0
+    },
+    {
+      "id": "L080",
+      "chapter": "patch",
+      "chapter_name": "诚实补丁",
+      "nav_active": 0,
+      "text": "如果是控制、羞辱、动手，第一步不是沟通，是离开，是找人帮忙。",
+      "tts_text": "如果是控制、羞辱、动手，第一步不是沟通，是离开，是找人帮忙。",
+      "highlight": [
+        "离开"
+      ],
+      "is_punchline": false,
+      "scene": "P1",
+      "scene_kind": "image",
+      "motion": "朋友的手伸进画面",
+      "est_start": 299.95,
+      "est_duration": 5.93
+    },
+    {
+      "id": "L081",
+      "chapter": "end",
+      "chapter_name": "回扣与结尾",
+      "nav_active": 0,
+      "text": "回到开头那个双人副本。",
+      "tts_text": "回到开头那个双人副本。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "E1",
+      "scene_kind": "mix",
+      "motion": "石门再次出现",
+      "est_start": 305.88,
+      "est_duration": 2.68
+    },
+    {
+      "id": "L082",
+      "chapter": "end",
+      "chapter_name": "回扣与结尾",
+      "nav_active": 0,
+      "text": "很多人以为，通关靠找到一个对的队友。",
+      "tts_text": "很多人以为，通关靠找到一个对的队友。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "E1",
+      "scene_kind": "mix",
+      "motion": "两人并肩",
+      "est_start": 308.56,
+      "est_duration": 4.07
+    },
+    {
+      "id": "L083",
+      "chapter": "end",
+      "chapter_name": "回扣与结尾",
+      "nav_active": 0,
+      "text": "可这本书五百多页，讲的大多是另一件事：",
+      "tts_text": "可这本书五百多页，讲的大多是另一件事：",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "E1",
+      "scene_kind": "mix",
+      "motion": "书页翻过",
+      "est_start": 312.63,
+      "est_duration": 4.3
+    },
+    {
+      "id": "L084",
+      "chapter": "end",
+      "chapter_name": "回扣与结尾",
+      "nav_active": 0,
+      "text": "两个普通人，怎么一起把这局打下去。",
+      "tts_text": "两个普通人，怎么一起把这局打下去。",
+      "highlight": [
+        "打下去"
+      ],
+      "is_punchline": false,
+      "scene": "E1",
+      "scene_kind": "mix",
+      "motion": "两人走进门，门内有光",
+      "est_start": 316.93,
+      "est_duration": 3.84
+    },
+    {
+      "id": "L085",
+      "chapter": "end",
+      "chapter_name": "回扣与结尾",
+      "nav_active": 0,
+      "text": "内耗，很多时候不是爱错了人，是用错了解释。",
+      "tts_text": "内耗，很多时候不是爱错了人，是用错了解释。",
+      "highlight": [
+        "解释"
+      ],
+      "is_punchline": true,
+      "scene": "E2",
+      "scene_kind": "ui",
+      "motion": "成就弹出",
+      "est_start": 320.77,
+      "est_duration": 5.14
+    },
+    {
+      "id": "L086",
+      "chapter": "end",
+      "chapter_name": "回扣与结尾",
+      "nav_active": 0,
+      "text": "评论区回一个字就行：吵架的时候，你是追的那个，还是躲的那个？",
+      "tts_text": "评论区回一个字就行：吵架的时候，你是追的那个，还是躲的那个？",
+      "highlight": [
+        "追",
+        "躲"
+      ],
+      "is_punchline": false,
+      "scene": "E3",
+      "scene_kind": "ui",
+      "motion": "两个按钮呼吸闪烁",
+      "est_start": 325.91,
+      "est_duration": 6.4
+    },
+    {
+      "id": "L087",
+      "chapter": "end",
+      "chapter_name": "回扣与结尾",
+      "nav_active": 0,
+      "text": "视频只有几分钟，装不下五百多页。",
+      "tts_text": "视频只有几分钟，装不下五百多页。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "E4",
+      "scene_kind": "mix",
+      "motion": "书合上",
+      "est_start": 332.31,
+      "est_duration": 3.61
+    },
+    {
+      "id": "L088",
+      "chapter": "end",
+      "chapter_name": "回扣与结尾",
+      "nav_active": 0,
+      "text": "如果它让你想翻开这本书，这期就没白做。",
+      "tts_text": "如果它让你想翻开这本书，这期就没白做。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "E4",
+      "scene_kind": "mix",
+      "motion": "台灯光晕",
+      "est_start": 335.92,
+      "est_duration": 4.3
+    },
+    {
+      "id": "L089",
+      "chapter": "end",
+      "chapter_name": "回扣与结尾",
+      "nav_active": 0,
+      "text": "这里是风的攻略，我们下一本书见。",
+      "tts_text": "这里是风的攻略，我们下一本书见。",
+      "highlight": [],
+      "is_punchline": false,
+      "scene": "E4",
+      "scene_kind": "mix",
+      "motion": "频道名出现，淡出",
+      "est_start": 340.22,
+      "est_duration": 4.3
+    }
+  ]
+}

@@ -26,8 +26,9 @@ export const SFX_GAIN = 0.85;
 export const SERIES = {
   name: '十六型人格',
   episode: '维度之学',
-  topLeft: 'MY OWN FILM',
-  topRight: 'SOUND ON · 片子的原声',
+  /** 频道名：显示在右上角，做成频道后每期都一样 */
+  channel: '风的攻略',
+  topLeft: 'SOUND ON · 建议开声音',
 };
 
 /** 开头试片的长度（拍）：20 拍 @112BPM ≈ 10.7 秒 */

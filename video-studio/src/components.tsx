@@ -104,7 +104,20 @@ export const Hud: React.FC<{total: number}> = ({total}) => {
       <Corner x="left" y="bottom" p={p} />
       <Corner x="right" y="bottom" p={p} />
       <div style={{...label, left: 60, top: 52}}>{SERIES.topLeft}</div>
-      <div style={{...label, right: 60, top: 52}}>{SERIES.topRight}</div>
+      <div
+        style={{
+          ...label,
+          right: 60,
+          top: 46,
+          fontFamily: SERIF,
+          fontWeight: 500,
+          fontSize: 24,
+          letterSpacing: '0.28em',
+          color: 'rgba(236, 230, 214, 0.62)',
+        }}
+      >
+        {SERIES.channel}
+      </div>
 
       {/* 左下：系列名 | 本集 */}
       <div style={{...label, left: 60, bottom: 58, letterSpacing: '0.12em', fontSize: 20}}>
