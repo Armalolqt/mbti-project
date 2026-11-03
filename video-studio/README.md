@@ -19,6 +19,7 @@ video-studio/
     ├── analyze_beats.py       第 2 步「卡点」：测 BPM 和重拍
     ├── synth_sfx.py           第 3 步「配音效」：合成钟琴/木琴/钢琴等音效
     ├── make_placeholder_music.py  生成 112 BPM 占位配乐
+    ├── compose_track.py       原创配乐：DJ 旋律 House / 纯音乐钢琴版
     └── beatcut.py             视频 2/3 式氛围片：按拍切镜 + 调色 + 片名
 ```
 
@@ -68,3 +69,15 @@ python3 tools/beatcut.py ... --size 1080x1920
 - 素材按文件名顺序使用（建议命名 `01.mp4`、`02.mp4`……），每段 3～5 秒就够，脚本会截取每段素材的中间部分
 - 调色预设 `abyss`：压暗、降饱和、阴影偏青、暗角、细颗粒；`--grade none` 关闭
 - 素材可以自己拍（阴天、蓝调时刻、夜晚路灯、雾天），也可以用 AI 生成，每个镜头的生成 prompt 见 `docs/video-analysis.md`
+
+## 三、原创配乐
+
+参考《We Never》DJ 版的速度、调性（A 小调）和段落结构，旋律是原创的，不涉及版权。
+
+```bash
+python3 tools/compose_track.py --out out/original_123bpm_dj.mp3                         # DJ 版：重鼓、反拍低音、拨弦
+python3 tools/compose_track.py --style soft --bpm 117 --out out/original_117bpm_soft.mp3 # 纯音乐版：钢琴主奏、轻鼓
+```
+
+结构：前奏 8 小节 → 高潮 8 小节 → 间奏 4 小节 → 高潮 8 小节 → 尾奏 4 小节，约 65 秒。
+生成后用 `analyze_beats.py` 或 `beatcut.py` 直接卡点。
